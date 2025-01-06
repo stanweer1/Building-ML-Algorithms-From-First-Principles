@@ -1,2 +1,8 @@
 # Building-ML-Algorithms-From-First-Principles
-My attempt at building ML algorithms in python from first principles
+
+Learning to code common ML algorithms from scratch. 
+- Linear Regression
+- Logistic Regression
+- Naive Bayes Classification
+- Decision Trees Classification
+- Support Vector Machine
